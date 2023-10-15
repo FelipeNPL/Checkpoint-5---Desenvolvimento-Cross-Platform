@@ -1,0 +1,1 @@
+enum TipoContato {corretor, consultor, banco, outros}
